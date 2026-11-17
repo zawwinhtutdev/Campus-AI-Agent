@@ -1,5 +1,6 @@
 # Campus AI Agent
 
+![Campus AI Agent](docs/banner.png)
 
 ![python](https://img.shields.io/badge/python-3.9%2B-blue)
 ![license](https://img.shields.io/badge/license-MIT-green)
